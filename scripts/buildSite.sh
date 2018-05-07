@@ -10,5 +10,5 @@ echo "Deleting old publication"
 rm -rf public
 mkdir public
 
-echo "Generating site in public/2017"
-hugo -d public/2017
+echo "Generating site in public/2018"
+hugo -d public/2018
