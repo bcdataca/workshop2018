@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2017-04-03"
+date = "2018-05-06"
 
 # Project title.
-title = "Data-driven modeling of video compression"
+title = "Optimal sales strategy for heavy freight shipping"
 
 # Project summary to display on homepage.
-summary = "Roger Donaldson, Ph.D.<br/> Midvale Applied Mathematics"
+summary = "Bernard Chan<br/>BuildDirect"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "proj/video-compression/drone-camera.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["compressed", "bitrate", "video", "data", "modelling", "modeling", "machine-learning", "video-analytics", "image-processing"]
+tags = ["sales", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -27,24 +27,46 @@ caption = "Compressed bitrate analysis project. "
 
 +++
 
-### Mentor: Roger Donaldson, Midvale Applied Mathematics
+### Mentor: Bernard Chan, BuildDirect
 
 ## Summary
 
-Despite our hand in their design, and hence their seemingly deterministic
-operation, electronic systems grow ever more complex and are often most simply
-characterized through measurement-driven modeling. This workshop presents
-measurements of the rate at which bits are produced as output of a compression
-algorithm for a digital video camera. The data are produced by presenting the
-camera with a variety of test scenes, and operating it over a variety of
-settings. The data presented here can both simulate the camera's bit rate as a
-function of operating conditions for design purposes, as well as provide some
-insight into how the camera's compression algorithm operates. 
+### About BuildDirect
 
-Several other goals will be presented, and participants will be free to
-investigate a variety of possible directions with the data.  Perhaps most
-importantly, complete details of how the data are generated --- namely the
-internal workings of the camera's algorithm --- are not available.  Despite this
-fact, we believe that systems as elaborate as those that can control the
-camera's bit rate under changing conditions can be achieved with good modeling
-practice on these available data.
+BuildDirect is the first technology platform for the home improvement
+industry. The BuildDirect platform includes two core business units:
+
+* BuildDirect Marketplace: An online marketplace that offers Pro Buyers and
+  Homeowners the ability to purchase heavyweight home improvement products
+  direct from Sellers and receive efficient direct-to-home (or jobsite) shipping
+  of those products.
+* Gateway Supply Chain: The first anywhere-to-the-home supply chain for heavy
+  and bulky goods that equips manufacturers, distributors and retailers with
+  efficient and cost-effective shipping solutions to move their products from
+  anywhere in the world, to locations across North America.
+
+The platform is powered by proprietary machine learning and predictive analytics
+that drive robust efficiencies for the innovation of heavyweight product
+services, distribution, and sales across buyers, sellers, shippers, and everyone
+in between.
+
+BuildDirect is headquartered in Vancouver, British Columbia with warehouse
+locations across North America.
+
+### About the Data Science Problem
+
+Home improvement products are larger and builkier than the typical goods sold
+online. Because of their size and weight, instead of fulfilling orders via
+postal or express carriers, orders at BuildDirect are shipped by freight
+carriers. As a result, shipping costs at BuildDirect, both in terms of dollar
+value and as the percentage of the total cost, are higher than other online
+retailers.
+
+With the provided data set, we would like understand how shipping costs effect
+BuildDirect customers' behaviour. Specifically, we would like to
+
+1. understand if the current shipping strategies are effective and
+2. optimize our shipping rates to increase sales and revenue. 
+
+Given the open-ended nature of the proposed problems, methods and techniques
+from mathematics, statistics, economics and machine learning are all applicable
