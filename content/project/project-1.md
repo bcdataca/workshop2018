@@ -9,7 +9,7 @@ title = "Predicting heavy equipment failure"
 summary = "Junbo Bao<br/>SSR Mining"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "proj/ssr/thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "proj/ssr/bg.jpg"
 caption = "Predicting heavy equipment failure project."
 
 +++

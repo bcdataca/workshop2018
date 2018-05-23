@@ -1,6 +1,7 @@
 +++
 url_slides = ""
 math = false
+draft = true
 location = "UBC Robson Square"
 highlight = true
 event_url = "../../post/advanced-topics/"

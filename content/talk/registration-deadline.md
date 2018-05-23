@@ -6,7 +6,7 @@ abstract_short = ""
 event = "Conference registration form"
 event_url = "#"
 location = "Online"
-draft = true
+draft = false
 selected = false
 math = true
 

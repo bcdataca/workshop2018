@@ -50,3 +50,5 @@ as working with large data sets, statistical inference, and machine learning
 options after graduation. For more information on workshop content, visit the
 [posts](#posts) section, [schedule](#schedule), or see [below](#info) for
 additional information.
+
+Last year's workshop homepage can be found [here](http://workshop.bcdata.ca/2017/). Its GitHub repository can be found [here](https://github.com/bcdataca/workshop-content). 

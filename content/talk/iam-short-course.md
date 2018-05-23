@@ -1,5 +1,6 @@
 +++
 url_slides = ""
+draft = true
 event = "Prequel Workshop"
 date = "2017-08-09T08:00:00-07:00"
 location = "[Earth Sciences Building](https://goo.gl/maps/EozyQzCHjeE2)"

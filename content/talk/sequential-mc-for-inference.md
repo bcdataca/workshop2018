@@ -1,7 +1,7 @@
 +++
 date = "2017-08-24T13:30:00-07:00"
+draft = true
 authors = ["Dr. Bhushan Gopaluni"]
-draft = false
 event_url = "../../post/advanced-topics/"
 abstract = "To be confirmed."
 event = "Advanced topics in data science"

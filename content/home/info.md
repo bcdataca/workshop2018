@@ -26,7 +26,7 @@ machine learning, data clustering, parameter fitting, and other techniques.
 
 See below for a [detailed schedule](#schedule). Lecture notes and workshop
 materials can be found on the [associated GitHub
-repository](https://github.com/bcdataca/workshop-content).
+repository](https://github.com/bcdataca/workshop-content). Last year's [workshop homepage](http://workshop.bcdata.ca/2017/) and [GitHub repository](https://github.com/bcdataca/workshop-content) are also available. 
 
 # Projects Overview
 
@@ -34,6 +34,7 @@ There will be several data sets used in the workshop. We will add in the
 details as they become finalized. For full project/data details, visit the
 [projects](#projects) section.
 
+<!--
 * [first project]
 * [second project]
-
+-->

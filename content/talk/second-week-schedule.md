@@ -1,5 +1,6 @@
 +++
 location = "[UBC Robson Street campus](https://goo.gl/maps/bfi4kpC4ubM2)"
+draft = true
 title = "Second week schedule"
 url_video = ""
 url_slides = ""

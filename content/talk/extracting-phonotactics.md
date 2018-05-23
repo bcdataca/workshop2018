@@ -1,5 +1,6 @@
 +++
 math = false
+draft = true
 event_url = "../../posts/advanced-topics"
 event = "Advanced topics in data science"
 authors=["Dr. Paul Tupper"]
@@ -12,7 +13,6 @@ A survey of how date science techniques are allowing researchers to extract
 information about the gradient phonotactics of the world’s languages.
 """
 
-draft = false
 abstract = """
 Consider the words ‘brick’, ‘blick’, and ‘bnick’. ‘brick’ is a word
 in English and ‘blick’ and ‘bnick’ are not. But most English speakers have the

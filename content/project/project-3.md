@@ -12,7 +12,7 @@ SNC-Lavalin Inc.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "proj/snc/marinetraffic.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "predictive", "analytics"]`
@@ -39,7 +39,7 @@ caption = "Port of Metro Vancouver Geomatics"
 
 TBA
 
-## Data team summary
+## Data team notes
 
 Each set of data spans approximately one week. Historical records contain many
 ships with sparsely recorded data (once every five minutes per ship), while

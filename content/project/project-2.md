@@ -3,13 +3,13 @@
 date = "2018-05-06"
 
 # Project title.
-title = "Linking Single Nucleotide Polymorphisms to Cytokine marker levels."
+title = "Connecting genetic mutations to cytokine levels."
 
 # Project summary to display on homepage.
 summary = "Keith Wallace<br />St. Paul's Hospital"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "proj/stpauls/microscope.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "proj/stpauls/tubes-bg.jpg"
 caption = "Linking SNPs to Cytokine levels."
 
 +++
@@ -33,3 +33,8 @@ caption = "Linking SNPs to Cytokine levels."
 ## Summary
 
 TBA
+
+## Data team notes
+
+Some background with biochemistry, mathematical biology, genetics, etc. is
+recommended. 
