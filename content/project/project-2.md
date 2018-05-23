@@ -3,13 +3,13 @@
 date = "2018-05-06"
 
 # Project title.
-title = "BCSA Project"
+title = "Linking Single Nucleotide Polymorphisms to Cytokine marker levels."
 
 # Project summary to display on homepage.
-summary = "Soyean Kim<br />BC Safety Authority"
+summary = "Keith Wallace<br />St. Paul's Hospital"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj/bcsa/bcsalogo.png"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,12 +23,12 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "proj/bcsa/chairlift.jpeg"
-caption = "BCSA Project."
+image = ""
+caption = "Linking SNPs to Cytokine levels."
 
 +++
 
-### Mentor: Soyean Kim, BC Safety Authority
+### Mentor: Keith Wallace, St. Paul's Hospital
 
 ## Summary
 

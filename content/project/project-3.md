@@ -3,7 +3,7 @@
 date = "2018-05-06"
 
 # Project title.
-title = "Port of Metro Vancouver ship interpolation problem"
+title = "Interpolating ship paths in the Port of Metro Vancouver."
 
 # Project summary to display on homepage.
 summary = """
@@ -12,7 +12,7 @@ SNC-Lavalin Inc.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj/altius.png"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "predictive", "analytics"]`
@@ -38,3 +38,11 @@ caption = "Port of Metro Vancouver Geomatics"
 ## Summary
 
 TBA
+
+## Data team summary
+
+Each set of data spans approximately one week. Historical records contain many
+ships with sparsely recorded data (once every five minutes per ship), while
+Current records store as many points as possible. The goal is to reconstruct
+full paths from partial information. This problem is ripe for Kalman filters and
+Latent Dirichlet Allocation.

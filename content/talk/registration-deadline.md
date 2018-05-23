@@ -1,5 +1,5 @@
 +++
-date = "2017-07-15T00:00:00"
+date = "2018-05-15T00:00:00"
 title = "Registration deadline"
 abstract = ""
 abstract_short = ""
@@ -21,5 +21,5 @@ url_video = ""
 
 +++
 
-The deadline for registration for the workshop is 15 July 2017. To
+The deadline for registration for the workshop is 15 May 2018. To
 register for the workshop and the pre-workshop, please visit the link above. 

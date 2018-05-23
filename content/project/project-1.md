@@ -3,17 +3,17 @@
 date = "2018-05-06"
 
 # Project title.
-title = "Optimal sales strategy for heavy freight shipping"
+title = "Predicting heavy equipment failure"
 
 # Project summary to display on homepage.
-summary = "Bernard Chan<br/>BuildDirect"
+summary = "Junbo Bao<br/>SSR Mining"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj/video-compression/drone-camera.jpeg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sales", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling"]
+tags = ["mining", "geophysics", "geology", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -22,51 +22,72 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "proj/video-compression/video-camera.jpeg"
-caption = "Compressed bitrate analysis project. "
+image = ""
+caption = "Predicting heavy equipment failure project."
 
 +++
 
-### Mentor: Bernard Chan, BuildDirect
+### Mentor: Junbo Bao, SSR Mining
 
 ## Summary
 
-### About BuildDirect
+### Innovation challenge
 
-BuildDirect is the first technology platform for the home improvement
-industry. The BuildDirect platform includes two core business units:
+Using data to proactively predict Equipment Failure prior to the actual failure
+event occurs by using equipment production, maintenance & alerts information.
+ 
+### Challenge Description
 
-* BuildDirect Marketplace: An online marketplace that offers Pro Buyers and
-  Homeowners the ability to purchase heavyweight home improvement products
-  direct from Sellers and receive efficient direct-to-home (or jobsite) shipping
-  of those products.
-* Gateway Supply Chain: The first anywhere-to-the-home supply chain for heavy
-  and bulky goods that equips manufacturers, distributors and retailers with
-  efficient and cost-effective shipping solutions to move their products from
-  anywhere in the world, to locations across North America.
+Equipment downtime is the time a piece of equipment is taken out of service for
+planned or unplanned maintenance work. While downtime is costly in general,
+unplanned downtime can cost up to seven times more than planned downtime and is
+disruptive to the production cycle due to its unpredictability. For this reason,
+it is the business goal to better predict and reduce equipment unplanned
+downtime.  Marigold currently collects equipment usage and production
+information in real time via the Modular Dispatch ® system and equipment
+sensors, performance and alerts via the Modular Minecare® system. The
+Maintenance Work order history is stored in the eMaint CMMS (Computerised
+Maintenance Management System). There is an opportunity to derive meaningful
+trends and correlations from this data via these systems to predict and reduce
+unplanned equipment downtime.
+ 
+### User Story
 
-The platform is powered by proprietary machine learning and predictive analytics
-that drive robust efficiencies for the innovation of heavyweight product
-services, distribution, and sales across buyers, sellers, shippers, and everyone
-in between.
+Marigold is currently operating a fleet of 21 haul trucks (320 tons class), 2
+hydraulic shovels and one electric shovel. The mine is currently experiencing
+higher than desired unplanned equipment downtime, which negatively impacts the
+ability to meet cost effective production targets. In many cases, the mine is
+unable to predict when, where and why a component on a piece of equipment will
+fail, leading to high unplanned downtime and low % unit availability. While a
+high amount of equipment information is gathered, the mine neither has the
+ability nor resource to analyze the information collected via Minecare, Dispatch
+and eMaint for predictive decision making.
 
-BuildDirect is headquartered in Vancouver, British Columbia with warehouse
-locations across North America.
+There is an opportunity to use all the equipment information collected to
+predict when a piece of equipment is starting to fail. This would allow
+maintenance crews adequate time to react and take units out of service before
+failure occurs. The result of this work will create a more data-driven and
+controlled maintenance environment and help achieve production targets.
+ 
+### Potential Areas to consider
 
-### About the Data Science Problem
+* Production trends correlating to equipment failures
+* Sensors and alarms trends correlating to equipment failures
+* Descriptions of downtime events in the works order system
+ 
+### Relevant Data
 
-Home improvement products are larger and builkier than the typical goods sold
-online. Because of their size and weight, instead of fulfilling orders via
-postal or express carriers, orders at BuildDirect are shipped by freight
-carriers. As a result, shipping costs at BuildDirect, both in terms of dollar
-value and as the percentage of the total cost, are higher than other online
-retailers.
+Data will include a data dictionary and relations map The dataset cover 13
+months’ worth of equipment identifiers, time profiles, production, performance,
+alarms and work order history.  The 3 systems used are:
 
-With the provided data set, we would like understand how shipping costs effect
-BuildDirect customers' behaviour. Specifically, we would like to
-
-1. understand if the current shipping strategies are effective and
-2. optimize our shipping rates to increase sales and revenue. 
-
-Given the open-ended nature of the proposed problems, methods and techniques
-from mathematics, statistics, economics and machine learning are all applicable
+* **Dispatch:** This dataset contains haul truck and shovel production summary
+(Equipment IDs, Tons moved, distance traveled and cycle time) and equipment time
+profile (operative, delays, downtime, idle time, and standby) along with
+downtime reasons and comments
+* **Minecare:** This data set contains haul truck and shovel sensors data,
+alarms and alerts history.
+* **Prevail:** This data set contains machine data, alarms and alerts for the
+electric shovel
+ 
+**eMaint:** Maintenance Work order history which includes work order time, downtime type, work type, equipment and components and parts usage

@@ -1,6 +1,7 @@
 +++
-location = "[UBC Robson Street campus](https://goo.gl/maps/bfi4kpC4ubM2)"
-date = "2017-08-14T08:00:00-07:00"
+location = "[UBC Orchard Commons](https://goo.gl/maps/RK5i4NC8KwR2)"
+date = "2018-06-04T08:00:00-07:00"
+publishdate = "2018-05-06T08:00:00-07:00"
 url_slides = ""
 highlight = true
 url_pdf = ""
@@ -11,7 +12,7 @@ abstract = ""
 math = false
 event = "BC Data Science Workshop"
 abstract_short = ""
-title = "First week schedule"
+title = "Full schedule"
 
 [header]
   image = ""
@@ -21,18 +22,20 @@ title = "First week schedule"
 
 ## Schedule
 
-The first week material will take place downtown at the [UBC Robson Street](https://goo.gl/maps/bfi4kpC4ubM2) campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a [UBC Robson floor plan](http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png) is available. The [lecture syllabus](../../post/first-week-lectures) provides more detailed information on the material covered in first week lectures, and the [GitHub repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/notes) for the workshop contains lecture notes and associated materials. 
+The workshop will take place in the [UBC Orchard
+Commons](https://goo.gl/maps/RK5i4NC8KwR2) building. Event rooms at this
+location will be clarified in the table below. Relevant content for each project can be found in the GitHub repository for the workshop, and on [bcdata.syzygy.ca](https://bcdata.syzygy.ca) (accessible with your GitHub credentials). 
 
-### Day 1: Monday August 14
+
+### Day 1: Monday June 4
 
 | Start |  End  | Location | Title |
 | ----- | ----- | -------- | ----- |
-| 08:30 | 09:30 |  Atrium  | Breakfast |
-| 09:30 | 11:00 |  C680    | Linear and logistic regression I |
-| 11:00 | 11:30 |          | Break |
-| 11:30 | 13:00 | C680 | Linear and logistic regression II |
-| 14:30 | 15:30 | C680 | Exercise presentation |
-| 15:30 |       | C010, C671, C673, C675, C677 | Group exercises |
+| 09:00 | 10:00 |  ESB 4133 (PIMS Lounge)  | Breakfast |
+| 10:00 | 11:30 |  ESB 2012 | Mentor Presentations 1-3 |
+| 11:30 | 12:00 |          | Break |
+| 12:00 | 13:00 | ESB 2012 | Mentor Presentations 4-5 |
+| 13:00 |       | ORCH | Group work begins |
 
 
 
