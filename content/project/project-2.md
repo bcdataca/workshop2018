@@ -32,9 +32,18 @@ caption = "Linking SNPs to Cytokine levels."
 
 ## Summary
 
-TBA
+TBA. 
 
-## Data team notes
+#### Data team notes
 
 Some background with biochemistry, mathematical biology, genetics, etc. is
-recommended. 
+recommended.
+
+## About St. Paul's Hospital
+
+[St. Paul’s
+Hospital](http://www.providencehealthcare.org/hospitals-residences/st-paul's-hospital)
+is an acute care, teaching and research hospital located in downtown
+Vancouver. It is home to many world-class medical and surgical programs,
+including heart and lung services, HIV/AIDS, mental health, emergency, critical
+care, kidney care, elder care and numerous surgical specialties.

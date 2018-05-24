@@ -6,7 +6,7 @@ date = "2018-05-06"
 title = "Predicting heavy equipment failure"
 
 # Project summary to display on homepage.
-summary = "Junbo Bao<br/>SSR Mining"
+summary = "Liezl Van Wyk, Vien Dang<br/>SSR Mining"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "proj/ssr/thumb.jpg"
@@ -27,7 +27,7 @@ caption = "Predicting heavy equipment failure project."
 
 +++
 
-### Mentor: Junbo Bao, SSR Mining
+### Mentor: Liezl Van Wyk and Vien Dang, SSR Mining
 
 ## Summary
 
@@ -90,4 +90,12 @@ alarms and alerts history.
 * **Prevail:** This data set contains machine data, alarms and alerts for the
 electric shovel
  
-**eMaint:** Maintenance Work order history which includes work order time, downtime type, work type, equipment and components and parts usage
+**eMaint:** Maintenance Work order history which includes work order time, downtime type, work type, equipment and components and parts usage.
+
+
+## About SSR Mining
+
+[SSR Mining Inc.](http://www.ssrmining.com/) is a Vancouver-based mining company
+focused on the operation, development, exploration and acquisition of precious
+metal projects. It is listed under the ticker symbol SSRM on the NASDAQ Capital
+Markets and the Toronto Stock Exchange.
