@@ -13,7 +13,7 @@ image_preview = "proj/ssr/thumb.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mining", "geophysics", "geology", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling", "bigdata", "prediction"]
+tags = ["mining", "geophysics", "geology", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling", "bigdata", "prediction", "inference"]
 # Optional external URL for project (replaces project detail page).
 external_link = "./ProjExternal/ssr.pdf"
 

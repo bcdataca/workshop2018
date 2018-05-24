@@ -27,3 +27,10 @@ weight = 60
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.cloudpbx.ca/"><img src="https://static.wixstatic.com/media/703c96_9dc4bd80ee234e541b64181fd24481f2.png/v1/fill/w_580,h_212,al_c,lg_1/703c96_9dc4bd80ee234e541b64181fd24481f2.png" style="width: 50%; margin-left: 10%;" /></a>
+    </td>
+  </tr>
+</table>

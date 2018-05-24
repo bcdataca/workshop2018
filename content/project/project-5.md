@@ -3,7 +3,7 @@
 date = "2018-05-06"
 
 # Project title.
-title = "Analyzing network performance and user opinion of a VoIP PBX."
+title = "Analyzing user opinion of call quality, and network performance of a VoIP PBX."
 
 # Project summary to display on homepage.
 summary = "Graham Nelson-Zutter<br />CloudPBX"
@@ -13,7 +13,7 @@ image_preview = "posts/generic-2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["analytics", "nlp", "inference"]
+tags = ["analytics", "inference", "clustering", "bigdata"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "proj/cloudpbx/cloud-bg.jpg"
-caption = "Predicting user opinion and improving network performance in a VoIP PBX."
+caption = "Analyzing user opinion of call quality, and network performance of a VoIP PBX."
 
 +++
 

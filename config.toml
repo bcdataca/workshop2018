@@ -128,12 +128,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:iam-workshop2018@lists.ubc.ca"
+    link = "mailto:wetton@math.ubc.ca"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/bcdataca"
+    link = "//github.com/bcdataca/workshop-content2018"
 
   [[params.social]]
     icon = "external-link"

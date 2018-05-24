@@ -38,10 +38,6 @@ view = 1
   tag = ".genetics"
 
 [[filter]]
-  name = "Inference"
-  tag = ".inference"
-
-[[filter]]
   name = "NLP"
   tag = ".nlp"
 
