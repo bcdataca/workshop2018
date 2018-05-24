@@ -26,15 +26,28 @@ view = 1
   tag = "*"
   
 [[filter]]
+  name = "Big data"
+  tag = ".bigdata"
+
+[[filter]]
+  name = "Cleaning"
+  tag = ".cleaning"
+
+[[filter]]
+  name = "Genetics"
+  tag = ".genetics"
+
+[[filter]]
   name = "Inference"
   tag = ".inference"
 
 [[filter]]
-  name = "Modeling"
-  tag = ".modeling"
+  name = "NLP"
+  tag = ".nlp"
 
 [[filter]]
-  name = "Image Processing"
-  tag = ".image-processing"
+  name = "Probabilistic modelling"
+  tag = ".modelling"
+
 +++
 

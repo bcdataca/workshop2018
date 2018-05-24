@@ -16,8 +16,7 @@ image_preview = "proj/snc/marinetraffic.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "predictive", "analytics"]`
-tags = ["biomedical", "genetics", "convnets", "convolution", "cnn",
-"machine-learning", "genomics", "promoter", "gene", "sequence", "inference"]
+tags = ["machine-learning", "inference", "interpolation", "cleaning", "modelling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

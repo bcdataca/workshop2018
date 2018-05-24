@@ -13,7 +13,7 @@ image_preview = "proj/stpauls/microscope.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "risk", "safety-authority", "analytics", "image-processing", "inference"]
+tags = ["machine-learning", "analytics", "genetics", "inference"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
