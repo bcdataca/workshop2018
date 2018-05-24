@@ -1,6 +1,6 @@
 +++
 url_pdf = ""
-date = "2018-06-05T18:00:00-07:00"
+date = "2018-06-06T18:00:00-07:00"
 publishdate = "2018-05-06T08:00:00-07:00"
 url_slides = ""
 url_video = ""
@@ -27,7 +27,7 @@ abstract_short = ""
 
 ## Summary
 
-On the evening of June 5th, BC Data Science workshop participants
+On the evening of June 6th, BC Data Science workshop participants
 will gather at [KPMG headquarters](https://goo.gl/maps/8qcjD5NUwRF2)
 for a career panel and social event. The panel discusses non-academic
 career options for math-inclined folk; how to be prepared
@@ -40,10 +40,22 @@ folk to recent graduates in mathematics/statistics now working in industry. It
 includes current and past employees of major tech companies and current start-up
 leadership roles.
 
+A reception follows from 7:00 to 8:00 PM. 
+
 ## Our panelists
 
 
 TBA
+
+
+<!--
+* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
+  Research Scientist at Amazon Vancouver
+* **Ozge Uncu**, Ph.D. Industrial Engineering (University of Toronto)
+  Senior Manager at KPMG
+* **Michael Reid**,  
+  Former Amazonian.
+-->
 
 <!--
 * **Lilian Wong**, Ph.D. Mathematics (CalTech)  

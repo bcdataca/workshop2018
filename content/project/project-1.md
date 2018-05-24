@@ -3,7 +3,7 @@
 date = "2018-05-06"
 
 # Project title.
-title = "Predicting heavy equipment failure"
+title = "Predicting heavy equipment failure."
 
 # Project summary to display on homepage.
 summary = "Liezl Van Wyk, Vien Dang<br/>SSR Mining"
@@ -15,7 +15,7 @@ image_preview = "proj/ssr/thumb.jpg"
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["mining", "geophysics", "geology", "online", "data", "modelling", "modeling", "machine-learning", "probabilistic-modeling", "bigdata", "prediction"]
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "./ProjExternal/ssr.pdf"
 
 # Does the project detail page use math formatting?
 math = false
