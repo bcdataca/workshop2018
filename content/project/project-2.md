@@ -32,7 +32,19 @@ caption = "Linking SNPs to Cytokine levels."
 
 ## Summary
 
-TBA. 
+Cytokines are a broad and loose category of small proteins that are important in
+cell signaling. Their release has an effect on the behavior of cells around
+them. The challenge in this problem is to find patterns of Single Nucleotide
+Polymorphisms (SNPs: genotypes) that beget particular cytokine levels
+(phenotypes).  Part of the data set provided is a list of patients' blood work
+measurements (cytokine levels). These data are in a straightforward CSV
+file. The other part of the dataset is genomic data of the patients.  These data
+are large collections of SNP markers on the patients' genomes and are
+represented in plink format, a common format for genome studies.  A part of the
+work the students would have to do is to unpack the plink data into a useful
+form for analysis. Finally, there is a genome reference online that indicates
+what is known about each SNP marker. There are about 330 (anonymized) patients,
+perhaps 40 cytokine markers, and entire genomes worth of data for each patient.
 
 #### Data team notes
 
