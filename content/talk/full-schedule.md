@@ -41,13 +41,13 @@ your GitHub credentials).
 
 ### Day 1: Monday June 4
 
-| Start |  End  | Location   | Title                    |
-| ----- | ----- | ---------- | ------------------------ |
-| 09:00 | 10:00 |  ESB 2012  | Breakfast                |
-| 10:00 | 11:30 |  ESB 2012  | Mentor presentations 1-3 |
-| 11:30 | 12:00 |  ESB 2012  | Break                    |
-| 12:00 | 13:00 |  ESB 2012  | Mentor presentations 4-5 |
-| 13:00 |  ---  |  ORCH      | Group work               |
+| Start |  End  | Location                 | Title                    |
+| ----- | ----- | ------------------------ | ------------------------ |
+| 09:00 | 10:00 |  ESB 4133 (PIMS Lounge)  | Breakfast                |
+| 10:00 | 11:30 |  ESB 2012                | Mentor presentations 1-3 |
+| 11:30 | 12:00 |  ESB 2012                | Break                    |
+| 12:00 | 13:00 |  ESB 2012                | Mentor presentations 4-5 |
+| 13:00 |  ---  |  ORCH                    | Group work               |
 
 
 
