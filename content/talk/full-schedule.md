@@ -32,16 +32,22 @@ repository](https://github.com/bcdataca/workshop-content2018.git) for the
 workshop, and on [bcdata.syzygy.ca](https://bcdata.syzygy.ca) (accessible with
 your GitHub credentials).
 
+**Location notes:**  
+
+* ESB 2012 must be accessed by the elevator (2R) or from the stairs on the main
+  floor.
+* KPMG is located at 777 Dunsmuir St, Vancouver (at the intersection of Howe and Dunsmuir).
+
 
 ### Day 1: Monday June 4
 
-| Start |  End  | Location                 | Title                    |
-| ----- | ----- | ------------------------ | ------------------------ |
-| 09:00 | 10:00 |  ESB 4133 (PIMS Lounge)  | Breakfast                |
-| 10:00 | 11:30 |  ESB 2012                | Mentor presentations 1-3 |
-| 11:30 | 12:00 |  ESB 4133 (PIMS Lounge)  | Break                    |
-| 12:00 | 13:00 |  ESB 2012                | Mentor presentations 4-5 |
-| 13:00 |  ---  |  ORCH                    | Group work               |
+| Start |  End  | Location   | Title                    |
+| ----- | ----- | ---------- | ------------------------ |
+| 09:00 | 10:00 |  ESB 2012  | Breakfast                |
+| 10:00 | 11:30 |  ESB 2012  | Mentor presentations 1-3 |
+| 11:30 | 12:00 |  ESB 2012  | Break                    |
+| 12:00 | 13:00 |  ESB 2012  | Mentor presentations 4-5 |
+| 13:00 |  ---  |  ORCH      | Group work               |
 
 
 
@@ -49,15 +55,15 @@ your GitHub credentials).
 
 | Start |  End  | Location | Title      |
 | ----- | ----- | -------- | ---------- |
-| 08:00 | 17:00 |   ORCH   | Group work |
-| 18:00 | 19:00 | [KPMG headquarters](https://goo.gl/maps/8qcjD5NUwRF2) | Career Panel |
+| 08:00 |  ---  |   ORCH   | Group work |
 
 
 ### Day 3: Wednesday June 6
 
 | Start |  End  | Location | Title      |
 | ----- | ----- | -------- | ---------- |
-| 08:00 |  ---  |   ORCH   | Group work |
+| 08:00 | 17:00 |   ORCH   | Group work |
+| 18:00 | 19:00 | [KPMG headquarters](https://goo.gl/maps/8qcjD5NUwRF2) | Career Panel |
 
 
 ### Day 4: Thursday June 7
@@ -73,9 +79,9 @@ your GitHub credentials).
 | Start |  End  | Location               | Title                     |
 | ----- | ----- | ---------------------- | ------------------------- |
 | 08:00 | 12:00 |      ORCH              | Group work                |
-| 12:00 | 13:00 | ESB 4133 (PIMS Lounge) |   Lunch                   |
+| 12:00 | 13:00 | ESB 2012               |   Lunch                   |
 | 13:00 | 14:30 | ESB 2012               | Student presentations 1-3 |
-| 14:30 | 15:00 | ESB 4133 (PIMS Lounge) | Break                     | 
+| 14:30 | 15:00 | ESB 2012               | Break                     | 
 | 15:00 | 16:00 | ESB 2012               | Student presentations 4-5 |
 | 16:00 | 17:00 | ---                    | ---                       |
 | 17:00 |       | ESB 4133 (PIMS Lounge) | Reception                 |
