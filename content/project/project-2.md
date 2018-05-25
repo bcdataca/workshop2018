@@ -6,7 +6,7 @@ date = "2018-05-06"
 title = "Connecting genetic mutations to cytokine levels."
 
 # Project summary to display on homepage.
-summary = "Keith Wallace<br />St. Paul's Hospital"
+summary = "Keith Walley<br />St. Paul's Hospital"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "proj/stpauls/microscope.jpg"
@@ -28,7 +28,7 @@ caption = "Linking SNPs to Cytokine levels."
 
 +++
 
-### Mentor: Keith Wallace, St. Paul's Hospital
+### Mentor: Keith Walley, St. Paul's Hospital
 
 ## Summary
 
