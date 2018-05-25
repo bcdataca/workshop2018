@@ -40,7 +40,12 @@ folk to recent graduates in mathematics/statistics now working in industry. It
 includes current and past employees of major tech companies and current start-up
 leadership roles.
 
-A reception follows from 7:00 to 8:00 PM. 
+A reception follows from 7:00 to 8:00 PM.
+
+## Registration
+
+If you plan to attend the career panel, please fill out the [registration
+form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform).
 
 ## Our panelists
 

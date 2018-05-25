@@ -38,3 +38,7 @@ details as they become finalized. For full project/data details, visit the
 * [first project]
 * [second project]
 -->
+
+# Career Panel
+
+There will be a [career panel](./talk/career-panel) on Wednesday June 6 at the KPMG headquarters. If you plan to attend, please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform). 
