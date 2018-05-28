@@ -23,8 +23,7 @@ abstract_short = ""
 
 ## Industry project presentations
 
-There will be a lunch for participants and industry mentors in the PIMS Lounge
-(ESB 4133) from 12:00 -- 13:00. Afterwards, students will present their work to
+There will be a lunch for participants and industry mentors in ESB 2012 from 12:00 to 13:00. Afterwards, students will present their work to
 industry mentors in a 20 minute presentation (plus 10 minutes for questions) in ESB 2012. Please see the table below for a schedule.
 
 **Participants:** Please send your project titles (and abstracts) to  
