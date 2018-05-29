@@ -80,3 +80,11 @@ agency. After moving to Vancouver, he's worked in software engineering at
 companies ranging from small consulting firms to Amazon Web Services. He
 recently co-founded Nautilus Technologies, a machine learning and data privacy
 startup in Vancouver.
+
+### Moderated Questions
+
+1. What was the first job you had after graduation and how did you get it? 
+2. What do you like most/least about your current work?
+3. If you could go back in time and change one thing about your career choices what would you do?
+4. What advice do you have for the students in the audience looking for their first job?
+

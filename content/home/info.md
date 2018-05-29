@@ -30,9 +30,7 @@ repository](https://github.com/bcdataca/workshop-content). Last year's [workshop
 
 # Projects Overview
 
-There will be several data sets used in the workshop. We will add in the
-details as they become finalized. For full project/data details, visit the
-[projects](#projects) section.
+Full [project](#projects) details can be found below; project room assignments are listed in the [schedule](./talk/full-schedule/).
 
 <!--
 * [first project]

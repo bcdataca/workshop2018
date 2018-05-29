@@ -37,13 +37,23 @@ your GitHub credentials).
 * ESB 2012 must be accessed by the elevator (2R) or from the stairs on the main
   floor.
 * KPMG is located at 777 Dunsmuir St, Vancouver (at the intersection of Howe and Dunsmuir).
+* Orchard Commons room assignments:
+
+|  ORCH  |   Project group     |  Project description   |
+| ------ | ------------------- | ---------------------- |
+|  4068  | [SSR Mining](../../ProjExternal/ssr.pdf)          | Equipment failure data |
+|  3068  | [St. Paul’s Hospital](../../project/project-2/) | Cytokine data          |
+|  3072  | [SNC-Lavalin](../../project/project-3)         | Ship path data         |
+|  4062  | [Comm100](../../project/project-4)             | Chat transcript data   |
+|  3062  | [CloudPBX](../../project/project-5/)            | Call quality data      |
+
 
 
 ### Day 1: Monday June 4
 
 | Start |  End  | Location                 | Title                    |
 | ----- | ----- | ------------------------ | ------------------------ |
-| 09:00 | 10:00 |  ESB 5104/5106           | Breakfast                |
+| 09:00 | 10:00 |  ESB 5104 / 5106         | Breakfast                |
 | 10:00 | 11:30 |  ESB 2012                | Mentor presentations 1-3 |
 | 11:30 | 12:00 |  ESB 2012                | Break                    |
 | 12:00 | 13:00 |  ESB 2012                | Mentor presentations 4-5 |
