@@ -84,7 +84,7 @@ your GitHub credentials).
 | 18:00 | ---   |  TBA     | Pizza dinner |
 
 
-### Day 5: Friday August 18
+### Day 5: Friday June 8
 
 | Start |  End  | Location               | Title                     |
 | ----- | ----- | ---------------------- | ------------------------- |
