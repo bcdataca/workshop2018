@@ -49,28 +49,34 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 
 ## Our panelists
 
+* **Bernard Chan**  
+(Data Scientist at BuildDirect)
+* **Soyean Kim**  
+(Head of Research at Technical Safety BC)
+* **Michael Reid**  
+(Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)
+* **Ozge Uncu**  
+(Senior Manager at KPMG)
+* **Lilian Wong**  
+(Research Scientist at Amazon Vancouver)
 
-TBA
+### Speaker Bios
+
+Soyean Kim is a professional statistician (P.STAT) who is passionate about
+ethical use of data and algorithms to contribute to the betterment of
+society. She currently leads a team of data scientists at Technical Safety BC, a
+safety regulator in Canada. Her key contribution includes advancing ethics
+roadmap in predictive system and deployment of AI and machine learning to help
+safety inspection process. Her previous leadership roles include her tenure at
+PricewaterhouseCoopers and Fortis as a rate design manager. She is an advocate
+for “Data for Good” and a speaker on the topic of real world applications of
+AI. Her latest speaking engagement includes PAPIs in London, UK which is a
+series of international AI conferences, and BC Tech Summit in Vancouver.
 
 
-<!--
-* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
-  Research Scientist at Amazon Vancouver
-* **Ozge Uncu**, Ph.D. Industrial Engineering (University of Toronto)
-  Senior Manager at KPMG
-* **Michael Reid**,  
-  Former Amazonian.
--->
-
-<!--
-* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
-  Research Scientist at Amazon Vancouver
-* **Roger Donaldson**, Ph.D. Mathematics (CalTech)
-  Technical Consultant at Midvale Applied Mathematics Inc.
-* **Bernard Chan**, Ph.D. Applied Mathematics (Western University)
-  Data Scientist at BuildDirect Technologies
-* **Megan McCorquodale**, M.Sc. Statistics (SFU)  
-  Data Scientist, Absolute Software
-* **Zak Islam**  
-  Sr. Manager, AWS Messaging at Amazon Web Services
--->
+Mike received a Bachelor's in Mathematics from UMBC before
+starting work as junior web developer for a US federal government consulting
+agency. After moving to Vancouver, he's worked in software engineering at
+companies ranging from small consulting firms to Amazon Web Services. He
+recently co-founded Nautilus Technologies, a machine learning and data privacy
+startup in Vancouver.
