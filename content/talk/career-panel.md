@@ -55,10 +55,9 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 (Head of Research at Technical Safety BC)
 * **Michael Reid**  
 (Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)
-* **Ozge Uncu**  
-(Senior Manager at KPMG)
-* **Lilian Wong**  
-(Research Scientist at Amazon Vancouver)
+* **Parin Shah**__
+(Data Scientist at KPMG)
+
 
 ### Speaker Bios
 
@@ -80,6 +79,17 @@ agency. After moving to Vancouver, he's worked in software engineering at
 companies ranging from small consulting firms to Amazon Web Services. He
 recently co-founded Nautilus Technologies, a machine learning and data privacy
 startup in Vancouver.
+
+
+Parin is a Data Scientist at KPMG focused on solving machine learning and data
+engineering problems in the space of mining, gaming, insurance and social
+media. Previously, he spent 2.5 years helping develop the digital analytics
+practice for an e-commerce firm, Natural Wellbeing, where he worked on setting
+up data infrastructure, building consumer analytics models and website
+experimentation. Parin was a fellow at a UBC machine learning workshop and has
+an undergraduate degree from the University of British Columbia (UBC) with a
+coursework concentrated in economics with statistics and computer science
+electives.
 
 ### Moderated Questions
 
