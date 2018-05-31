@@ -29,11 +29,11 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 **Participants:** Please send your project titles (and abstracts) to  
 <a href="mailto:aberk@math.ubc.ca">aberk@math.ubc.ca</a> **before** 18:00 on Thursday June 7. 
 
-| Start | End   | Group     | Project title |
-| ----- | ----- | --------- | ------------- |
-| 13:00 | 13:30 | Project 1 |               |
-| 13:30 | 14:00 | Project 2 |               |
-| 14:00 | 14:30 | Project 3 |               |
+| Start | End   | Group         | Project title |
+| ----- | ----- | ------------- | ------------- |
+| 13:00 | 13:30 | Project 5     |               |
+| 13:30 | 14:00 | Project 4     |               |
+| 14:00 | 14:30 | Project 3     |               |
 | 14:30 | 15:00 | --**break**-- |               |
-| 15:00 | 15:30 | Project 4 |               |
-| 15:30 | 16:00 | Project 5 |               |
+| 15:00 | 15:30 | Project 2     |               |
+| 15:30 | 16:00 | Project 1     |               |

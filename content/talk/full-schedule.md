@@ -51,13 +51,17 @@ your GitHub credentials).
 
 ### Day 1: Monday June 4
 
-| Start |  End  | Location                 | Title                    |
-| ----- | ----- | ------------------------ | ------------------------ |
-| 09:00 | 10:00 |  ESB 5104 / 5106         | Breakfast                |
-| 10:00 | 11:30 |  ESB 2012                | Mentor presentations 1-3 |
-| 11:30 | 12:00 |  ESB 2012                | Break                    |
-| 12:00 | 13:00 |  ESB 2012                | Mentor presentations 4-5 |
-| 13:00 |  ---  |  ORCH                    | Group work               |
+| Start |  End  | Location         | Title                              |
+| ----- | ----- | ---------------- | ---------------------------------- |
+| 09:00 | 10:00 |  ESB 5104 / 5106 | Breakfast                          |
+| 10:00 | 10:30 |  ESB 2012        | Liezl Van Wyk (SSR Mining)         |
+| 10:30 | 11:00 |  ESB 2012        | Keith Walley (St. Paul’s Hospital) |
+| 11:00 | 11:30 |  ESB 2012        | Roger Donaldson (for SNC Lavalin)  |
+| 11:30 | 12:00 |  ESB 2012        | Break                              |
+| 12:00 | 13:00 |  ESB 2012        | Mentor presentations 4-5           |
+| 12:00 | 12:30 |  ESB 2012        | David Carlson (Comm100)            |
+| 12:30 | 13:00 |  ESB 2012        | Graham Nelson-Zutter (CloudPBX)    |
+| 13:00 |  ---  |  ORCH            | Group work                         |
 
 
 
@@ -90,8 +94,8 @@ your GitHub credentials).
 | ----- | ----- | ---------------------- | ------------------------- |
 | 08:00 | 12:00 |      ORCH              | Group work                |
 | 12:00 | 13:00 | ESB 2012               |   Lunch                   |
-| 13:00 | 14:30 | ESB 2012               | Student presentations 1-3 |
+| 13:00 | 14:30 | ESB 2012               | Student presentations 5-3 |
 | 14:30 | 15:00 | ESB 2012               | Break                     | 
-| 15:00 | 16:00 | ESB 2012               | Student presentations 4-5 |
+| 15:00 | 16:00 | ESB 2012               | Student presentations 2-1 |
 | 16:00 | 17:00 | ---                    | ---                       |
 | 17:00 |       | ESB 4133 (PIMS Lounge) | Reception                 |
