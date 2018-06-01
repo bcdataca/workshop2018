@@ -55,7 +55,7 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 (Head of Research at Technical Safety BC)
 * **Michael Reid**  
 (Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)
-* **Parin Shah**__
+* **Parin Shah**  
 (Data Scientist at KPMG)
 
 

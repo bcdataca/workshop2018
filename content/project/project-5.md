@@ -80,7 +80,7 @@ create adaptive and proactive connectivity and call routing rules.
 
 ## About CloudPBX
 
-CloudPBX is a Canadian voice-over-IP VoIP service provider to offers
-infrastructure to business VoIP service provider across the Canada. CloudPBX
-provides VoIP service to business users at over 500 unique locations in Canada
-from Victoria, BC to St-John’s, NL.
+[CloudPBX](http://www.cloudpbx.ca/) is a Canadian voice-over-IP VoIP service
+provider to offers infrastructure to business VoIP service provider across the
+Canada. CloudPBX provides VoIP service to business users at over 500 unique
+locations in Canada from Victoria, BC to St-John’s, NL.
