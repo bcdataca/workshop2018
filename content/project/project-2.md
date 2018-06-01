@@ -51,7 +51,7 @@ perhaps 40 cytokine markers, and entire genomes worth of data for each patient.
 #### Data team notes
 
 Some background with biochemistry, mathematical biology, genetics, etc. is
-recommended.
+recommended. Slides from the Monday presentation are [available here](../../ProjExternal/stpaul_bcdata18.pdf).
 
 ## About St. Paul's Hospital
 
