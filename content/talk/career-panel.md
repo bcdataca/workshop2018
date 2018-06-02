@@ -57,6 +57,8 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 (Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)
 * **Parin Shah**  
 (Data Scientist at KPMG)
+* **Aanchan Mohan**  
+(ML Scientist and Software Engineer at Synaptitude Brain Health)
 
 
 ### Speaker Bios
@@ -90,6 +92,20 @@ experimentation. Parin was a fellow at a UBC machine learning workshop and has
 an undergraduate degree from the University of British Columbia (UBC) with a
 coursework concentrated in economics with statistics and computer science
 electives.
+
+
+Dr. Aanchan Mohan is a machine learning scientist and software engineer at
+Synaptitude Brain Health. He is currently working on software and machine
+learning methods to encourage circadian regulation with the goal of improving an
+individual’s brain health. His current research interests include problems in
+natural language processing. Dr. Mohan has worked on Bayesian and deep learning
+methods applied to time series signals across multiple domains. He holds a PhD
+from McGill University where he focused on transfer learning and parameter
+sharing in acoustic models for speech recognition. He supervises students and
+actively publishes in the area of speech processing. He is a named co-inventor
+on two issued patents in the area of speech processing, and one filed patent in
+the area of wearable devices. He is a co-organizer of the AI in Production, and
+Natural Language Processing meetups in Vancouver.
 
 ### Moderated Questions
 
