@@ -63,6 +63,14 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 
 ### Speaker Bios
 
+Bernard Chan is currently a data scientist at
+[BuildDirect.com](http://builddirect.com/) (BD), an e-commerce platform in
+flooring, tiles and other home improvement products. At BD, Bernard is part of
+the analytics team and he specializes in logistics related data problems such as
+freight rate and route planning. Prior to working at BD, Bernard was a applied
+mathematics researcher in dynamical systems and bifurcation theory.
+
+
 Soyean Kim is a professional statistician (P.STAT) who is passionate about
 ethical use of data and algorithms to contribute to the betterment of
 society. She currently leads a team of data scientists at Technical Safety BC, a
