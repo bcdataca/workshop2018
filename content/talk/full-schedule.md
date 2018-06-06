@@ -82,10 +82,10 @@ your GitHub credentials).
 
 ### Day 4: Thursday June 7
 
-| Start |  End  | Location | Title        |
-| ----- | ----- | -------- | ------------ |
-| 08:00 | 17:00 |  ORCH    | Group work   |
-| 18:00 | ---   |  TBA     | Pizza dinner |
+| Start |  End  | Location              | Title        |
+| ----- | ----- | --------------------- | ------------ |
+| 08:00 | 17:00 |  ORCH                 | Group work   |
+| 18:00 | ---   |  IAM Lounge (LSK 311) | Pizza dinner |
 
 
 ### Day 5: Friday June 8
