@@ -90,11 +90,14 @@ your GitHub credentials).
 
 ### Day 5: Friday June 8
 
-| Start |  End  | Location               | Title                     |
-| ----- | ----- | ---------------------- | ------------------------- |
-| 08:00 | 12:00 |      ORCH              | Group work                |
-| 12:00 | 13:00 | ESB 2012               |   Lunch                   |
-| 13:00 | 14:30 | ESB 2012               | Student presentations 5-3 |
-| 14:30 | 15:00 | ESB 2012               | Break                     | 
-| 15:00 | 16:00 | ESB 2012               | Student presentations 2-1 |
-| 16:00 | 17:30 | ESB 4133 (PIMS Lounge) | Reception                 |
+| Start |  End  | Location               | Title         |
+| ----- | ----- | ---------------------- | ------------- |
+| 08:00 | 12:00 |      ORCH              | Group work    |
+| 12:00 | 13:00 | ESB 2012               |   Lunch       |
+| 13:00 | 13:30 | ESB 2012               | CloudPBX      |
+| 13:30 | 14:00 | ESB 2012               | Comm100       |
+| 14:00 | 14:30 | ESB 2012               | SNC-Lavalin   |
+| 14:30 | 15:00 | ESB 2012               | --**break**-- |
+| 15:00 | 15:30 | ESB 2012               | St. Paul's    |
+| 15:30 | 16:00 | ESB 2012               | SSR Mining    |
+| 16:00 | 17:30 | ESB 4133 (PIMS Lounge) | Reception     |
