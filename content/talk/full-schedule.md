@@ -97,5 +97,4 @@ your GitHub credentials).
 | 13:00 | 14:30 | ESB 2012               | Student presentations 5-3 |
 | 14:30 | 15:00 | ESB 2012               | Break                     | 
 | 15:00 | 16:00 | ESB 2012               | Student presentations 2-1 |
-| 16:00 | 17:00 | ---                    | ---                       |
 | 16:00 | 17:30 | ESB 4133 (PIMS Lounge) | Reception                 |
