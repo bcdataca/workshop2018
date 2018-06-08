@@ -31,12 +31,12 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 
 | Start | End   | Group         | Project title |
 | ----- | ----- | ------------- | ------------- |
-| 13:00 | 13:30 | CloudPBX      | Quality Analysis of CloudPBX VoIP Calls |
-| 13:30 | 14:00 | Comm100       | Predicting Message Paths and Determining Conversation Intent from Live Chat Transcripts |
-| 14:00 | 14:30 | SNC-Lavalin   | Interpolating Ship Paths |
+| 13:00 | 13:30 | [CloudPBX](./#cloudpbx)      | [Quality Analysis of CloudPBX VoIP Calls](./#quality-analysis-of-cloudpbx-voip-calls) |
+| 13:30 | 14:00 | [Comm100](./#comm100)       | [Predicting Message Paths and </br>Determining Conversation Intent </br>from Live Chat Transcripts](./#predicting-message-paths-and-determining-conversation-intent-from-live-chat-transcripts) |
+| 14:00 | 14:30 | [SNC-Lavalin](./#snc-lavalin)   | [Interpolating Ship Paths](./#interpolating-ship-paths) |
 | 14:30 | 15:00 | --**break**-- |               |
-| 15:00 | 15:30 | St. Paul's    | St. Paul Shenanigans - Or a deep look into cytokines |
-| 15:30 | 16:00 | SSR Mining    | Exploratory Analysis and Failure Prediction of SSR Mining Trucks |
+| 15:00 | 15:30 | [St. Paul's](./#st-paul-s-hospital)    | [St. Paul Shenanigans - </br>Or a deep look into cytokines](./#st-paul-shenanigans-or-a-deep-look-into-cytokines) |
+| 15:30 | 16:00 | [SSR Mining](./#ssr-mining)    | [Exploratory Analysis and Failure </br>Prediction of SSR Mining Trucks](./#exploratory-analysis-and-failure-prediction-of-ssr-mining-trucks) |
 
 
 ### CloudPBX

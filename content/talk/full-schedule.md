@@ -94,10 +94,10 @@ your GitHub credentials).
 | ----- | ----- | ---------------------- | ------------- |
 | 08:00 | 12:00 |      ORCH              | Group work    |
 | 12:00 | 13:00 | ESB 2012               |   Lunch       |
-| 13:00 | 13:30 | ESB 2012               | CloudPBX      |
-| 13:30 | 14:00 | ESB 2012               | Comm100       |
-| 14:00 | 14:30 | ESB 2012               | SNC-Lavalin   |
+| 13:00 | 13:30 | ESB 2012               | [CloudPBX project presentation](../final-presentations/#cloudpbx)      |
+| 13:30 | 14:00 | ESB 2012               | [Comm100 project presentation](../final-presentations/#comm100)       |
+| 14:00 | 14:30 | ESB 2012               | [SNC-Lavalin project presentation](../final-presentations/#snc-lavalin)   |
 | 14:30 | 15:00 | ESB 2012               | --**break**-- |
-| 15:00 | 15:30 | ESB 2012               | St. Paul's    |
-| 15:30 | 16:00 | ESB 2012               | SSR Mining    |
+| 15:00 | 15:30 | ESB 2012               | [St. Paul's project presentation](../final-presentations/#st-paul-s-hospital)    |
+| 15:30 | 16:00 | ESB 2012               | [SSR Mining project presentation](../final-presentations/#ssr-mining)    |
 | 16:00 | 17:30 | ESB 4133 (PIMS Lounge) | Reception     |
