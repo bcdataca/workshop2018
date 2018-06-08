@@ -35,8 +35,8 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 | 13:30 | 14:00 | Comm100       | Predicting Message Paths and Determining Conversation Intent from Live Chat Transcripts |
 | 14:00 | 14:30 | SNC-Lavalin   | Interpolating Ship Paths |
 | 14:30 | 15:00 | --**break**-- |               |
-| 15:00 | 15:30 | St. Paul's    |               |
-| 15:30 | 16:00 | SSR Mining    |               |
+| 15:00 | 15:30 | St. Paul's    | St. Paul Shenanigans - Or a deep look into cytokines |
+| 15:30 | 16:00 | SSR Mining    | Exploratory Analysis and Failure Prediction of SSR Mining Trucks |
 
 
 ### CloudPBX
@@ -89,6 +89,7 @@ and number of clusters, which is still ongoing.
 
 
 ### St. Paul's Hospital
+#### St. Paul Shenanigans - Or a deep look into cytokines
 
 Sepsis is the leading cause of death in the intensive care unit
 worldwide. Despite having many environmental factors, septic shock can be
@@ -105,6 +106,7 @@ SNPs that correlate with mortality rates including one in the gene of a protein
 
 
 ### SSR Mining
+#### Exploratory Analysis and Failure Prediction of SSR Mining Trucks
 
 We explored a data set of 50 GB split into many categories and sub-components in
 the SSR mining company’s daily operations. This data records massive amounts of
