@@ -4,7 +4,7 @@ date = "2018-06-06T18:00:00-07:00"
 publishdate = "2018-05-06T08:00:00-07:00"
 url_slides = ""
 url_video = ""
-title = "Career Panel"
+title = "Career Panel at KPMG"
 location = "[KPMG HQ](https://goo.gl/maps/8qcjD5NUwRF2)"
 event = "Industry career panel for students"
 math = false
@@ -15,39 +15,48 @@ highlight = true
 abstract_short = ""
 
 [header]
-  caption = ""
-  image = ""
+  caption = "Photo of the panelists and moderator. Photo Credit: Miguel Eichelberger (PIMS).<br />Left to right: Aanchan Mohan, Parin Shah, Soyean Kim, Michael Reid, Bernard Chan, Brian Wetton."
+  image = "../../img/careerpanel/cp18short.jpg"
 
 +++
 
 
-## Career panel at KPMG
-
 <!--{{< youtube ctOFh51xzmM >}}-->
+
+<img src="../../img/careerpanel/cp15.jpg" alt="Participant asking a question during the Q&A session. Photo credit: Miguel Eichelberger (PIMS)."/>
+
 
 ## Summary
 
+
 On the evening of June 6th, BC Data Science workshop participants
-will gather at [KPMG headquarters](https://goo.gl/maps/8qcjD5NUwRF2)
-for a career panel and social event. The panel discusses non-academic
+gathered at [KPMG headquarters](https://goo.gl/maps/8qcjD5NUwRF2)
+for a career panel and social event. The panel discussed non-academic
 career options for math-inclined folk; how to be prepared
 for industry jobs and job interviews; and what differences to expect
 in industry. More broadly, the panelists discussed career success,
 personal values, and strategies for achieving career-oriented goals.
 
-The panel includes folk with a range of perspectives: from long-time industry
+The panel included folk with a range of perspectives: from long-time industry
 folk to recent graduates in mathematics/statistics now working in industry. It
-includes current and past employees of major tech companies and current start-up
-leadership roles.
+included current and past employees of major tech companies and current start-up
+leadership roles. See below for [panelists](./#our-panelists) and [speaker bios](./#speaker-bios).
 
-A reception follows from 7:00 to 8:00 PM.
+After the moderated portion of the career panel, a lively and engaging reception followed a student Q&A session. 
 
-## Registration
 
-If you plan to attend the career panel, please fill out the [registration
-form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform).
+<!-- ## Registration -->
+
+<!-- If you plan to attend the career panel, please fill out the [registration -->
+<!-- form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform). -->
+
+
+
+<img src="../../img/careerpanel/cp17.jpg" alt="students listening to the panelists."/>
+
 
 ## Our panelists
+
 
 * **Bernard Chan**  
 (Data Scientist at BuildDirect)
@@ -61,7 +70,8 @@ form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcv
 (ML Scientist and Software Engineer at Synaptitude Brain Health)
 
 
-### Speaker Bios
+
+## Speaker Bios
 
 Bernard Chan is currently a data scientist at
 [BuildDirect.com](http://builddirect.com/) (BD), an e-commerce platform in
@@ -121,4 +131,6 @@ Natural Language Processing meetups in Vancouver.
 2. What do you like most/least about your current work?
 3. If you could go back in time and change one thing about your career choices what would you do?
 4. What advice do you have for the students in the audience looking for their first job?
+
+
 
