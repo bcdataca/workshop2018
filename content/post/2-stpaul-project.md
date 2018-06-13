@@ -1,6 +1,7 @@
 +++
 date = "2018-06-08T18:59:00"
 math = false
+draft = true
 highlight = true
 tags = ["stpaul", "hospital", "project", "final"]
 title = "St. Paul's Hospital Final Project"
