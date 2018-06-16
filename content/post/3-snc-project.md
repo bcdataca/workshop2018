@@ -18,8 +18,9 @@ caption = ""
 
 
 This is the final project presentation by the SNC-Lavalin project team. A pdf
-download of the slides submitted by the SNC-Lavalin project team is
-[available here](../../finalpres/snc-slides.pdf). An executable file for the presentation is [available here](../../finalpres/snc-prezi.exe).
+download of the slides submitted by the SNC-Lavalin project team is [available
+here](../../finalpres/snc-slides.pdf). A Prezi executable file for the
+presentation is available from the group members.
 
 <embed src="../../finalpres/snc-slides.pdf" width="800px" height="975px" />
 
