@@ -17,9 +17,10 @@ caption = ""
 +++
 
 
-Below is the code submitted by the SSR Mining project team. If the code below does not load, you can instead view the Gist on [gist.github.com](https://gist.github.com/asberk/8f342e26885d647c55b09b82d6f458a0).
+Below is the code submitted by the SSR Mining project team. To view the embedded
+images you may instead run the 
+[Jupyter notebook](../../finalpres/FinalPresentationSSR.ipynb).
 
 
-
-{{< gist asberk 8f342e26885d647c55b09b82d6f458a0 >}}
+{{< gist asberk 8d495a527e4e90f2361a8c71aa7a1231 >}}
 

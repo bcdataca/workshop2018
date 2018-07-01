@@ -1,7 +1,7 @@
 +++
 date = "2018-06-08T18:59:00"
 math = false
-draft = true
+draft = false
 highlight = true
 tags = ["stpaul", "hospital", "project", "final"]
 title = "St. Paul's Hospital Final Project"
@@ -18,9 +18,9 @@ caption = ""
 +++
 
 
-This is the final project presentation by the St. Paul's hospital project
+This is the final project submission from the St. Paul's hospital project
 team. A pdf download of the slides submitted by the St. Paul's Hospital project
-team is [available here](../../finalpres/stpauls-slides.pdf).
+team is [available here](../../finalpres/stpauls-bc-data-2018-report.pdf).
 
-<embed src="../../finalpres/stpauls-slides.pdf" width="800px" height="975px" />
+<embed src="../../finalpres/stpauls-bc-data-2018-report.pdf" width="800px" height="975px" />
 
